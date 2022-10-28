@@ -6,4 +6,4 @@ Provide your access-key & secret-key in application.yml file. You can either cre
 
 
 Follow this link for video reference
-https://www.youtube.com/watch?v=XUL60-Ke-L8
+https://www.youtube.com/watch?v=vY7c7k8xmKE
